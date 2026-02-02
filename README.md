@@ -1,5 +1,3 @@
-# Pacman
-
 # Pacman Artificial Intelligence Project
 
 ## Overview
